@@ -82,3 +82,4 @@ while inf != 'Y'or inf != 'y'or inf != 'yes'or inf != 'YES' or 'N'or inf != 'n'o
     inf = input("Respond: ")
 
 print("Thx")
+
